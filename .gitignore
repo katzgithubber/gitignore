@@ -1,3 +1,6 @@
+# Ignore single file
 new-file.txt
-
+#Ignore file in subdirectory
 bin/
+#Ignore amm .tm file
+*.tmp
