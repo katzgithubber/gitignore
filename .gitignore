@@ -1,5 +1,5 @@
 # Ignore single file
-new-file.txt
+alternate-file.txt
 #Ignore file in subdirectory
 bin/
 #Ignore amm .tm file
